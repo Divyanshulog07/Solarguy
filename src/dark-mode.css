@@ -1,0 +1,17 @@
+.mode-container {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+ }
+ .dark {
+    background-color: rgb(36, 36, 36);
+    color: white;
+ }
+ .light {
+    background-color: white;
+    color: black;
+ }
